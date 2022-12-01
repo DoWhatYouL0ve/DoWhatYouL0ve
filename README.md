@@ -1,4 +1,4 @@
-<img src="https://external-preview.redd.it/g-P3AQqFtoMYggLbwnjpt4nUdNhJ47SESejQA6XIZX4.jpg?auto=webp&s=0ca5f9bd98a5746ab0d7311fadda5b5d7b2d1d82" width="100%" /> <br/>
+<img src="https://wallpaperaccess.com/full/4784916.jpg" width="100%" /> <br/>
 
 <h1 align="center">Hi 👋, I'm William Ross</h1>
 <h3 align="center">Let's make this world a better place!</h3>
