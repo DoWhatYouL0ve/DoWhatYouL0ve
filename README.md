@@ -1,7 +1,7 @@
 <img src="https://wallpaperaccess.com/full/4784916.jpg" width="100%" /> <br/>
 
 <h1 align="center">Hi 👋, I'm William Ross</h1>
-<h3 align="center">Let's make this world a better place!</h3>
+<h3 align="center">Let's code!</h3>
 
 - 🌱 I’m currently learning **React Native**
 
