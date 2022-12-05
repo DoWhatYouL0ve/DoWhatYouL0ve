@@ -4,7 +4,7 @@
 <h3 align="center">Let's code!</h3>
 
 <div align="center">
-  🌱 I’m currently learning <strong>React Native</strong><br/>
+  🌱 I’m currently learning <strong>Frontend => Full stack</strong><br/>
 
 👨‍💻 My portfolio [https://dowhatyoul0ve.github.io/portfolio/](https://dowhatyoul0ve.github.io/portfolio/)
 
